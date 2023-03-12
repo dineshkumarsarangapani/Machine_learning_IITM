@@ -1,0 +1,251 @@
+movie_title,year,director,stars,rating
+The Shawshank Redemption,1994,Frank Darabont,"Tim Robbins, Morgan Freeman",9.221377613270343
+The Godfather,1972,Francis Ford Coppola,"Marlon Brando, Al Pacino",9.14670331153127
+The Godfather: Part II,1974,Francis Ford Coppola,"Al Pacino, Robert De Niro",8.98106391100221
+The Dark Knight,2008,Christopher Nolan,"Christian Bale, Heath Ledger",8.976951546949058
+12 Angry Men,1957,Sidney Lumet,"Henry Fonda, Lee J. Cobb",8.942159441328727
+Schindler's List,1993,Steven Spielberg,"Liam Neeson, Ralph Fiennes",8.91321115442614
+The Lord of the Rings: The Return of the King,2003,Peter Jackson,"Elijah Wood, Viggo Mortensen",8.89276810272324
+Pulp Fiction,1994,Quentin Tarantino,"John Travolta, Uma Thurman",8.833137256136222
+"Il buono, il brutto, il cattivo",1966,Sergio Leone,"Clint Eastwood, Eli Wallach",8.782889891130308
+ The Lord of the Rings: The Fellowship of the Ring,2001,Peter Jackson,"Elijah Wood, Ian McKellen",8.782381349521295
+Fight Club,1999,David Fincher,"Brad Pitt, Edward Norton",8.747937243892048
+Forrest Gump,1994,Robert Zemeckis,"Tom Hanks, Robin Wright",8.74414667181052
+Inception,2010,Christopher Nolan,"Leonardo DiCaprio, Joseph Gordon-Levitt",8.714484465171891
+The Lord of the Rings: The Two Towers,2002,Peter Jackson,"Elijah Wood, Ian McKellen",8.70631641120059
+Star Wars: Episode V - The Empire Strikes Back,1980,Irvin Kershner,"Mark Hamill, Harrison Ford",8.69410195231561
+The Matrix,1999,Lana Wachowski,"Keanu Reeves, Laurence Fishburne",8.65064493467025
+Goodfellas,1990,Martin Scorsese,"Robert De Niro, Ray Liotta",8.645164952204253
+One Flew Over the Cuckoo's Nest,1975,Milos Forman,"Jack Nicholson, Louise Fletcher",8.633383944858185
+Shichinin no samurai,1954,Akira Kurosawa,"Toshirô Mifune, Takashi Shimura",8.60774652861619
+Se7en,1995,David Fincher,"Morgan Freeman, Brad Pitt",8.586916374222152
+The Silence of the Lambs,1991,Jonathan Demme,"Jodie Foster, Anthony Hopkins",8.577103277473954
+Cidade de Deus,2002,Fernando Meirelles,"Alexandre Rodrigues, Leandro Firmino",8.575830206219138
+It's a Wonderful Life,1946,Frank Capra,"James Stewart, Donna Reed",8.575140373797717
+La vita è bella,1997,Roberto Benigni,"Roberto Benigni, Nicoletta Braschi",8.575137072185127
+Saving Private Ryan,1998,Steven Spielberg,"Tom Hanks, Matt Damon",8.551445297596645
+Star Wars,1977,George Lucas,"Mark Hamill, Harrison Ford",8.548783335975163
+Interstellar,2014,Christopher Nolan,"Matthew McConaughey, Anne Hathaway",8.546491867725868
+Sen to Chihiro no kamikakushi,2001,Hayao Miyazaki,"Daveigh Chase, Suzanne Pleshette",8.538661954899716
+The Green Mile,1999,Frank Darabont,"Tom Hanks, Michael Clarke Duncan",8.537707403815885
+Spider-Man: No Way Home,2021,Jon Watts,"Tom Holland, Zendaya",8.534378619680952
+Gisaengchung,2019,Bong Joon Ho,"Kang-ho Song, Sun-kyun Lee",8.524846706371358
+Léon,1994,Luc Besson,"Jean Reno, Gary Oldman",8.494337708592258
+Seppuku,1962,Masaki Kobayashi,"Tatsuya Nakadai, Akira Ishihama",8.493258170443525
+The Pianist,2002,Roman Polanski,"Adrien Brody, Thomas Kretschmann",8.491257914727285
+Terminator 2: Judgment Day,1991,James Cameron,"Arnold Schwarzenegger, Linda Hamilton",8.48582272536705
+Back to the Future,1985,Robert Zemeckis,"Michael J. Fox, Christopher Lloyd",8.484280521784152
+The Usual Suspects,1995,Bryan Singer,"Kevin Spacey, Gabriel Byrne",8.481255013014358
+The Lion King,1994,Roger Allers,"Matthew Broderick, Jeremy Irons",8.481227507570194
+Psycho,1960,Alfred Hitchcock,"Anthony Perkins, Janet Leigh",8.48119010132788
+Modern Times,1936,Charles Chaplin,"Charles Chaplin, Paulette Goddard",8.476534952785764
+Hotaru no haka,1988,Isao Takahata,"Tsutomu Tatsumi, Ayano Shiraishi",8.474217424887268
+American History X,1998,Tony Kaye,"Edward Norton, Edward Furlong",8.472216172158712
+Whiplash,2014,Damien Chazelle,"Miles Teller, J.K. Simmons",8.469829561518607
+Gladiator,2000,Ridley Scott,"Russell Crowe, Joaquin Phoenix",8.46960635235097
+The Departed,2006,Martin Scorsese,"Leonardo DiCaprio, Matt Damon",8.467194226914913
+City Lights,1931,Charles Chaplin,"Charles Chaplin, Virginia Cherrill",8.467018368076156
+The Intouchables,2011,Olivier Nakache,"François Cluzet, Omar Sy",8.458142315492639
+The Prestige,2006,Christopher Nolan,"Christian Bale, Hugh Jackman",8.453715885466739
+Casablanca,1942,Michael Curtiz,"Humphrey Bogart, Ingrid Bergman",8.448551117111924
+Once Upon a Time in the West,1968,Sergio Leone,"Henry Fonda, Charles Bronson",8.445009287949034
+Rear Window,1954,Alfred Hitchcock,"James Stewart, Grace Kelly",8.439422410146516
+Nuovo Cinema Paradiso,1988,Giuseppe Tornatore,"Philippe Noiret, Enzo Cannavale",8.438489312671
+Alien,1979,Ridley Scott,"Sigourney Weaver, Tom Skerritt",8.422305195557154
+Apocalypse Now,1979,Francis Ford Coppola,"Martin Sheen, Marlon Brando",8.416535860024668
+Memento,2000,Christopher Nolan,"Guy Pearce, Carrie-Anne Moss",8.405762016223417
+Raiders of the Lost Ark,1981,Steven Spielberg,"Harrison Ford, Karen Allen",8.403988813681558
+The Great Dictator,1940,Charles Chaplin,"Charles Chaplin, Paulette Goddard",8.402471118554795
+Django Unchained,2012,Quentin Tarantino,"Jamie Foxx, Christoph Waltz",8.391592826882308
+The Lives of Others,2006,Florian Henckel von Donnersmarck,"Ulrich Mühe, Martina Gedeck",8.389854033323862
+Paths of Glory,1957,Stanley Kubrick,"Kirk Douglas, Ralph Meeker",8.382020741138632
+Sunset Blvd,1950,Billy Wilder,"William Holden, Gloria Swanson",8.376205982632765
+WALL·E,2008,Andrew Stanton,"Ben Burtt, Elissa Knight",8.373646156452997
+Avengers: Infinity War,2018,Anthony Russo,"Robert Downey Jr., Chris Hemsworth",8.372178376013027
+Spider-Man: Into the Spider-Verse,2018,Bob Persichetti,"Shameik Moore, Jake Johnson",8.365694267767985
+Witness for the Prosecution,1957,Billy Wilder,"Tyrone Power, Marlene Dietrich",8.3656205266327
+The Shining,1980,Stanley Kubrick,"Jack Nicholson, Shelley Duvall",8.36274881166435
+Dr Strangelove or: How I Learned to Stop Worrying and Love the Bomb,1964,Stanley Kubrick,"Peter Sellers, George C. Scott",8.350311269642464
+Mononoke-hime,1997,Hayao Miyazaki,"Yôji Matsuda, Yuriko Ishida",8.344545791309985
+Oldeuboi,2003,Park Chan-wook,"Choi Min-sik, Yoo Ji-Tae",8.343053600377973
+Joker,2019,Todd Phillips,"Joaquin Phoenix, Robert De Niro",8.337896151905895
+Kimi no na wa,2016,Makoto Shinkai,"Ryûnosuke Kamiki, Mone Kamishiraishi",8.328072472523596
+Coco,2017,Lee Unkrich,"Anthony Gonzalez, Gael García Bernal",8.322911312725546
+The Dark Knight Rises,2012,Christopher Nolan,"Christian Bale, Tom Hardy",8.321442479776762
+Aliens,1986,James Cameron,"Sigourney Weaver, Michael Biehn",8.320472094796093
+Once Upon a Time in America,1984,Sergio Leone,"Robert De Niro, James Woods",8.317543862049504
+Avengers: Endgame,2019,Anthony Russo,"Robert Downey Jr., Chris Evans",8.314163273599398
+Capharnaüm,2018,Nadine Labaki,"Zain Al Rafeea, Yordanos Shiferaw",8.312099256361492
+Das Boot,1981,Wolfgang Petersen,"Jürgen Prochnow, Herbert Grönemeyer",8.306082256432012
+Tengoku to jigoku,1963,Akira Kurosawa,"Toshirô Mifune, Yutaka Sada",8.302645760080024
+3 Idiots,2009,Rajkumar Hirani,"Aamir Khan, Madhavan",8.299049622270491
+Toy Story,1995,John Lasseter,"Tom Hanks, Tim Allen",8.296527836147545
+Amadeus,1984,Milos Forman,"F. Murray Abraham, Tom Hulce",8.29546289931241
+American Beauty,1999,Sam Mendes,"Kevin Spacey, Annette Bening",8.293898261564648
+Braveheart,1995,Mel Gibson,"Mel Gibson, Sophie Marceau",8.29231603317184
+Inglourious Basterds,2009,Quentin Tarantino,"Brad Pitt, Diane Kruger",8.291954914568105
+Good Will Hunting,1997,Gus Van Sant,"Robin Williams, Matt Damon",8.284504992290971
+Hamilton,2020,Thomas Kail,"Lin-Manuel Miranda, Phillipa Soo",8.277835476624446
+Idi i smotri,1985,Elem Klimov,"Aleksey Kravchenko, Olga Mironova",8.274675246272503
+Star Wars: Episode VI - Return of the Jedi,1983,Richard Marquand,"Mark Hamill, Harrison Ford",8.27332116473339
+2001: A Space Odyssey,1968,Stanley Kubrick,"Keir Dullea, Gary Lockwood",8.271467996211342
+Reservoir Dogs,1992,Quentin Tarantino,"Harvey Keitel, Tim Roth",8.269357542402224
+Taare Zameen Par,2007,Aamir Khan,"Darsheel Safary, Aamir Khan",8.26903342988057
+Vertigo,1958,Alfred Hitchcock,"James Stewart, Kim Novak",8.267798794906588
+M - Eine Stadt sucht einen Mörder,1931,Fritz Lang,"Peter Lorre, Ellen Widmann",8.267299888720087
+Jagten,2012,Thomas Vinterberg,"Mads Mikkelsen, Thomas Bo Larsen",8.266617146370113
+Citizen Kane,1941,Orson Welles,"Orson Welles, Joseph Cotten",8.265448960813957
+Singin' in the Rain,1952,Stanley Donen,"Gene Kelly, Donald O'Connor",8.259608544690245
+Requiem for a Dream,2000,Darren Aronofsky,"Ellen Burstyn, Jared Leto",8.259520094602452
+North by Northwest,1959,Alfred Hitchcock,"Cary Grant, Eva Marie Saint",8.256208376500657
+ Ikiru,1952,Akira Kurosawa,"Takashi Shimura, Nobuo Kaneko",8.255191042033456
+Eternal Sunshine of the Spotless Mind,2004,Michel Gondry,"Jim Carrey, Kate Winslet",8.254749037339558
+Ladri di biciclette,1948,Vittorio De Sica,"Lamberto Maggiorani, Enzo Staiola",8.253286299297159
+Lawrence of Arabia,1962,David Lean,"Peter O'Toole, Alec Guinness",8.25010959260976
+The Kid,1921,Charles Chaplin,"Charles Chaplin, Edna Purviance",8.241620581526096
+Full Metal Jacket,1987,Stanley Kubrick,"Matthew Modine, R. Lee Ermey",8.241163828169999
+Incendies,2010,Denis Villeneuve,"Lubna Azabal, Mélissa Désormeaux-Poulin",8.241006962757565
+Dangal,2016,Nitesh Tiwari,"Aamir Khan, Sakshi Tanwar",8.240405467205303
+The Apartment,1960,Billy Wilder,"Jack Lemmon, Shirley MacLaine",8.239310115764868
+Double Indemnity,1944,Billy Wilder,"Fred MacMurray, Barbara Stanwyck",8.2359078426612
+Metropolis,1927,Fritz Lang,"Brigitte Helm, Alfred Abel",8.234697941431774
+A Clockwork Orange,1971,Stanley Kubrick,"Malcolm McDowell, Patrick Magee",8.233424567265804
+Taxi Driver,1976,Martin Scorsese,"Robert De Niro, Jodie Foster",8.233303500761656
+The Father,2020,Florian Zeller,"Anthony Hopkins, Olivia Colman",8.232586581844245
+The Sting,1973,George Roy Hill,"Paul Newman, Robert Redford",8.231676659080101
+Jodaeiye Nader az Simin,2011,Asghar Farhadi,"Payman Maadi, Leila Hatami",8.231645384557249
+Scarface,1983,Brian De Palma,"Al Pacino, Michelle Pfeiffer",8.231413420575727
+Snatch,2000,Guy Ritchie,"Jason Statham, Brad Pitt",8.228772844150303
+1917,2019,Sam Mendes,"Dean-Charles Chapman, George MacKay",8.22773479687701
+Le fabuleux destin d'Amélie Poulain,2001,Jean-Pierre Jeunet,"Audrey Tautou, Mathieu Kassovitz",8.226465389491457
+To Kill a Mockingbird,1962,Robert Mulligan,"Gregory Peck, John Megna",8.224128028643271
+Toy Story 3,2010,Lee Unkrich,"Tom Hanks, Tim Allen",8.221014564515281
+Per qualche dollaro in più,1965,Sergio Leone,"Clint Eastwood, Lee Van Cleef",8.216326285602214
+Up,2009,Pete Docter,"Edward Asner, Jordan Nagai",8.213238728034936
+Pather Panchali,1955,Satyajit Ray,"Kanu Bannerjee, Karuna Bannerjee",8.204739858160165
+Indiana Jones and the Last Crusade,1989,Steven Spielberg,"Harrison Ford, Sean Connery",8.203071277086872
+Heat,1995,Michael Mann,"Al Pacino, Robert De Niro",8.200040205657674
+LA Confidential,1997,Curtis Hanson,"Kevin Spacey, Russell Crowe",8.196207669509567
+Ran,1985,Akira Kurosawa,"Tatsuya Nakadai, Akira Terao",8.193931768403466
+Die Hard,1988,John McTiernan,"Bruce Willis, Alan Rickman",8.193492729299981
+Yôjinbô,1961,Akira Kurosawa,"Toshirô Mifune, Eijirô Tôno",8.193466731615615
+Green Book,2018,Peter Farrelly,"Viggo Mortensen, Mahershala Ali",8.191241297577053
+Rashômon,1950,Akira Kurosawa,"Toshirô Mifune, Machiko Kyô",8.189566028495678
+Der Untergang,2004,Oliver Hirschbiegel,"Bruno Ganz, Alexandra Maria Lara",8.189082594438705
+All About Eve,1950,Joseph L. Mankiewicz,"Bette Davis, Anne Baxter",8.187620024709773
+Monty Python and the Holy Grail,1975,Terry Gilliam,"Graham Chapman, John Cleese",8.186698988134061
+Some Like It Hot,1959,Billy Wilder,"Marilyn Monroe, Tony Curtis",8.183899427402096
+Batman Begins,2005,Christopher Nolan,"Christian Bale, Michael Caine",8.182101760035778
+Unforgiven,1992,Clint Eastwood,"Clint Eastwood, Gene Hackman",8.17730156757419
+Jai Bhim,2021,T.J. Gnanavel,"Suriya, Lijo Mol Jose",8.174413978354318
+Bacheha-Ye aseman,1997,Majid Majidi,"Mohammad Amir Naji, Amir Farrokh Hashemian",8.170963446078646
+Hauru no ugoku shiro,2004,Hayao Miyazaki,"Chieko Baishô, Takuya Kimura",8.165121473627162
+The Wolf of Wall Street,2013,Martin Scorsese,"Leonardo DiCaprio, Jonah Hill",8.165029030620655
+Judgment at Nuremberg,1961,Stanley Kramer,"Spencer Tracy, Burt Lancaster",8.159578358102447
+There Will Be Blood,2007,Paul Thomas Anderson,"Daniel Day-Lewis, Paul Dano",8.158472001972859
+Casino,1995,Martin Scorsese,"Robert De Niro, Sharon Stone",8.156113936977787
+The Great Escape,1963,John Sturges,"Steve McQueen, James Garner",8.155654362390182
+The Treasure of the Sierra Madre,1948,John Huston,"Humphrey Bogart, Walter Huston",8.154270936384076
+Pan's Labyrinth,2006,Guillermo del Toro,"Ivana Baquero, Ariadna Gil",8.149065058322387
+A Beautiful Mind,2001,Ron Howard,"Russell Crowe, Ed Harris",8.147509901332636
+El secreto de sus ojos,2009,Juan José Campanella,"Ricardo Darín, Soledad Villamil",8.144589586644914
+Raging Bull,1980,Martin Scorsese,"Robert De Niro, Cathy Moriarty",8.141662811466803
+Chinatown,1974,Roman Polanski,"Jack Nicholson, Faye Dunaway",8.137071755383094
+Tonari no Totoro,1988,Hayao Miyazaki,"Hitoshi Takagi, Noriko Hidaka",8.136126317033659
+Shutter Island,2010,Martin Scorsese,"Leonardo DiCaprio, Emily Mortimer",8.135699459457824
+"Lock, Stock and Two Smoking Barrels",1998,Guy Ritchie,"Jason Flemyng, Dexter Fletcher",8.132924955492301
+No Country for Old Men,2007,Ethan Coen,"Tommy Lee Jones, Javier Bardem",8.130688633968575
+Klaus,2019,Sergio Pablos,"Jason Schwartzman, J.K. Simmons",8.129931916364677
+Dial M for Murder,1954,Alfred Hitchcock,"Ray Milland, Grace Kelly",8.129157719648166
+The Thing,1982,John Carpenter,"Kurt Russell, Wilford Brimley",8.128659362236393
+The Gold Rush,1925,Charles Chaplin,"Charles Chaplin, Mack Swain",8.127485971272048
+"Three Billboards Outside Ebbing, Missouri",2017,Martin McDonagh,"Frances McDormand, Woody Harrelson",8.125952914731833
+Det sjunde inseglet,1957,Ingmar Bergman,"Max von Sydow, Gunnar Björnstrand",8.124486047361893
+The Elephant Man,1980,David Lynch,"Anthony Hopkins, John Hurt",8.124077562542322
+The Sixth Sense,1999,M. Night Shyamalan,"Bruce Willis, Haley Joel Osment",8.122968025070097
+Jurassic Park,1993,Steven Spielberg,"Sam Neill, Laura Dern",8.118653189301336
+The Truman Show,1998,Peter Weir,"Jim Carrey, Ed Harris",8.118333408470365
+Dersu Uzala,1975,Akira Kurosawa,"Maksim Munzuk, Yuriy Solomin",8.11825559049126
+Smultronstället,1957,Ingmar Bergman,"Victor Sjöström, Bibi Andersson",8.115285902994946
+The Third Man,1949,Carol Reed,"Orson Welles, Joseph Cotten",8.11464948971923
+Salinui chueok,2003,Bong Joon Ho,"Kang-ho Song, Kim Sang-kyung",8.114156274799461
+V for Vendetta,2005,James McTeigue,"Hugo Weaving, Natalie Portman",8.112599775047075
+Blade Runner,1982,Ridley Scott,"Harrison Ford, Rutger Hauer",8.112222992906785
+Trainspotting,1996,Danny Boyle,"Ewan McGregor, Ewen Bremner",8.111621341175763
+Fargo,1996,Joel Coen,"William H. Macy, Frances McDormand",8.110937992614831
+The Bridge on the River Kwai,1957,David Lean,"William Holden, Alec Guinness",8.1104172348436
+Inside Out,2015,Pete Docter,"Amy Poehler, Bill Hader",8.109623735173447
+Finding Nemo,2003,Andrew Stanton,"Albert Brooks, Ellen DeGeneres",8.108447059928904
+Kill Bill: Vol 1,2003,Quentin Tarantino,"Uma Thurman, David Carradine",8.108384625612624
+Warrior,2011,Gavin O'Connor,"Tom Hardy, Nick Nolte",8.107205986930367
+Gone with the Wind,1939,Victor Fleming,"Clark Gable, Vivien Leigh",8.105729644225555
+Tôkyô monogatari,1953,Yasujirô Ozu,"Chishû Ryû, Chieko Higashiyama",8.102759281528837
+On the Waterfront,1954,Elia Kazan,"Marlon Brando, Karl Malden",8.100466351185025
+Babam ve Oglum,2005,Cagan Irmak,"Eser Sariyar, Çetin Tekindor",8.099035863865913
+Prisoners,2013,Denis Villeneuve,"Hugh Jackman, Jake Gyllenhaal",8.093756275409927
+Relatos salvajes,2014,Damián Szifron,"Darío Grandinetti, María Marull",8.093093813116623
+The Grand Budapest Hotel,2014,Wes Anderson,"Ralph Fiennes, F. Murray Abraham",8.090947634706495
+Stalker,1979,Andrei Tarkovsky,"Alisa Freyndlikh, Aleksandr Kaydanovskiy",8.09022588254473
+The Deer Hunter,1978,Michael Cimino,"Robert De Niro, Christopher Walken",8.089751322041659
+The General,1926,Clyde Bruckman,"Buster Keaton, Marion Mack",8.087242558013251
+Gran Torino,2008,Clint Eastwood,"Clint Eastwood, Bee Vang",8.087006343134005
+Persona,1966,Ingmar Bergman,"Bibi Andersson, Liv Ullmann",8.086758112849893
+Sherlock Jr,1924,Buster Keaton,"Buster Keaton, Kathryn McGuire",8.086719645809069
+Before Sunrise,1995,Richard Linklater,"Ethan Hawke, Julie Delpy",8.086078224452974
+Catch Me If You Can,2002,Steven Spielberg,"Leonardo DiCaprio, Tom Hanks",8.08456864132862
+Mary and Max,2009,Adam Elliot,"Toni Collette, Philip Seymour Hoffman",8.084411980393742
+Mr Smith Goes to Washington,1939,Frank Capra,"James Stewart, Jean Arthur",8.081126955258286
+Barry Lyndon,1975,Stanley Kubrick,"Ryan O'Neal, Marisa Berenson",8.08102622372009
+In the Name of the Father,1993,Jim Sheridan,"Daniel Day-Lewis, Pete Postlethwaite",8.079552971437225
+Hacksaw Ridge,2016,Mel Gibson,"Andrew Garfield, Sam Worthington",8.078619276495417
+Gone Girl,2014,David Fincher,"Ben Affleck, Rosamund Pike",8.077890873740829
+Room,2015,Lenny Abrahamson,"Brie Larson, Jacob Tremblay",8.076374613230165
+Z,1969,Costa-Gavras,"Yves Montand, Irene Papas",8.075007214827105
+Andhadhun,2018,Sriram Raghavan,"Ayushmann Khurrana, Tabu",8.073236179067619
+La passion de Jeanne d'Arc,1928,Carl Theodor Dreyer,"Maria Falconetti, Eugene Silvain",8.072175977657121
+Dune: Part One,2021,Denis Villeneuve,"Timothée Chalamet, Rebecca Ferguson",8.071112248245969
+Ford v Ferrari,2019,James Mangold,"Matt Damon, Christian Bale",8.071102475535422
+12 Years a Slave,2013,Steve McQueen,"Chiwetel Ejiofor, Michael Kenneth Williams",8.07011707300684
+To Be or Not to Be,1942,Ernst Lubitsch,"Carole Lombard, Jack Benny",8.066601005181523
+The Big Lebowski,1998,Joel Coen,"Jeff Bridges, John Goodman",8.065765272460505
+Dead Poets Society,1989,Peter Weir,"Robin Williams, Robert Sean Leonard",8.064387644903988
+Harry Potter and the Deathly Hallows: Part 2,2011,David Yates,"Daniel Radcliffe, Emma Watson",8.063375324207488
+Ben-Hur,1959,William Wyler,"Charlton Heston, Jack Hawkins",8.062512671885255
+How to Train Your Dragon,2010,Dean DeBlois,"Jay Baruchel, Gerard Butler",8.061764430041427
+Mad Max: Fury Road,2015,George Miller,"Tom Hardy, Charlize Theron",8.061537892246324
+Höstsonaten,1978,Ingmar Bergman,"Ingrid Bergman, Liv Ullmann",8.058244642489177
+Million Dollar Baby,2004,Clint Eastwood,"Hilary Swank, Clint Eastwood",8.058130920887622
+Le salaire de la peur,1953,Henri-Georges Clouzot,"Yves Montand, Charles Vanel",8.056194799442032
+Stand by Me,1986,Rob Reiner,"Wil Wheaton, River Phoenix",8.054993242471909
+Network,1976,Sidney Lumet,"Faye Dunaway, William Holden",8.054075798715877
+Ah-ga-ssi,2016,Park Chan-wook,"Kim Min-hee, Ha Jung-woo",8.053879681578346
+Logan,2017,James Mangold,"Hugh Jackman, Patrick Stewart",8.053751258190198
+Gangs of Wasseypur,2012,Anurag Kashyap,"Manoj Bajpayee, Richa Chadha",8.052065239310146
+La haine,1995,Mathieu Kassovitz,"Vincent Cassel, Hubert Koundé",8.051023253582779
+Koe no katachi,2016,Naoko Yamada,"Miyu Irino, Saori Hayami",8.050716417912252
+Cool Hand Luke,1967,Stuart Rosenberg,"Paul Newman, George Kennedy",8.049084192161873
+Hachi: A Dog's Tale,2009,Lasse Hallström,"Richard Gere, Joan Allen",8.049043890694655
+Les quatre cents coups,1959,François Truffaut,"Jean-Pierre Léaud, Albert Rémy",8.047036082751326
+Platoon,1986,Oliver Stone,"Charlie Sheen, Tom Berenger",8.04538327438113
+Spotlight,2015,Tom McCarthy,"Mark Ruffalo, Michael Keaton",8.045306780734409
+"Monsters, Inc",2001,Pete Docter,"Billy Crystal, John Goodman",8.042567378352764
+Rebecca,1940,Alfred Hitchcock,"Laurence Olivier, Joan Fontaine",8.039808996165121
+Life of Brian,1979,Terry Jones,"Graham Chapman, John Cleese",8.038885335764027
+Fa Yeung Nin Wah,2000,Kar-Wai Wong,"Tony Chiu-Wai Leung, Maggie Cheung",8.038625162393606
+Eskiya,1996,Yavuz Turgul,"Sener Sen, Ugur Yücel",8.038459810121234
+Hotel Rwanda,2004,Terry George,"Don Cheadle, Sophie Okonedo",8.03655810907644
+Rush,2013,Ron Howard,"Daniel Brühl, Chris Hemsworth",8.035172381732817
+Rocky,1976,John G. Avildsen,"Sylvester Stallone, Talia Shire",8.03422485010525
+Amores perros,2000,Alejandro G. Iñárritu,"Emilio Echevarría, Gael García Bernal",8.033668721221687
+Kimetsu no Yaiba: Mugen Ressha-Hen,2020,Haruo Sotozaki,"Natsuki Hanae, Akari Kitô",8.033524049856823
+Into the Wild,2007,Sean Penn,"Emile Hirsch, Vince Vaughn",8.03242193910529
+Kaze no tani no Naushika,1984,Hayao Miyazaki,"Sumi Shimamoto, Mahito Tsujimura",8.030408550069144
+Drishyam,2013,Jeethu Joseph,"Mohanlal, Meena",8.029973023745594
+Before Sunset,2004,Richard Linklater,"Ethan Hawke, Julie Delpy",8.028906865522606
+It Happened One Night,1934,Frank Capra,"Clark Gable, Claudette Colbert",8.028582918158135
+Miracle in Cell No 7,2019,Mehmet Ada Öztekin,"Aras Bulut Iynemli, Nisa Sofiya Aksongur",8.02711045184671
+Andrei Rublev,1966,Andrei Tarkovsky,"Anatoliy Solonitsyn, Ivan Lapikov",8.026222729219173
+La battaglia di Algeri,1966,Gillo Pontecorvo,"Brahim Hadjadj, Jean Martin",8.025902697271391
+Le notti di Cabiria,1957,Federico Fellini,"Giulietta Masina, François Périer",8.02584192277759
+Fanny och Alexander,1982,Ingmar Bergman,"Bertil Guve, Pernilla Allwin",8.025746021719016
+Hera Pheri,2000,Priyadarshan,"Akshay Kumar, Suniel Shetty",8.025625520772177
